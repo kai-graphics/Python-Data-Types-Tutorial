@@ -44,7 +44,7 @@ input("Boolean logic is everywhere. Hit Enter...\n")
 print("👉 Let's explore: Lists (list)")
 print("Lists can store several items, and you can change them later.")
 shopping_list = ["eggs", "milk", "bread"]
-print("Example: shopping_list = {shopping_list}")
+print(f"Example: shopping_list = {shopping_list}")
 print("Yup, type is:", type(shopping_list))
 input("Lists are pretty useful. Next up...\n")
 
